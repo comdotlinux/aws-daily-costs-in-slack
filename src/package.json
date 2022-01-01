@@ -15,8 +15,8 @@
   },
   "homepage": "https://github.com/raywonkari/aws-daily-costs-in-slack#readme",
   "dependencies": {
-    "aws-sdk": "^2.814.0",
+    "aws-sdk": "^2.1048.0",
     "https": "^1.0.0",
-    "moment": "^2.27.0"
+    "moment": "^2.29.1"
   }
 }
